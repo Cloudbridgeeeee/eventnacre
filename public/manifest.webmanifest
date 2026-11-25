@@ -1,0 +1,16 @@
+{
+  "name": "EventNacre",
+  "short_name": "EventNacre",
+  "description": "AI financial planning software for event businesses that classifies supplier expenses, compares estimates with actual spending and forecasts budget deviations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#f7f4ec",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
