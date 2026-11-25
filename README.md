@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for EventNacre.
 - Industry: Events Services, Accounting, Business Intelligence
 - Founder: Oladapo Oyinlola (Founder & CEO)
 - Co-founder: Chidinma Okoro (Co-founder & CTO)
-- Contact: oladapo@eventnacre.top
+- Contact: oladapo@eventnacre.site
 - Business model: Monthly and project-based subscriptions
 
 ## Stack

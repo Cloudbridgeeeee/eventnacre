@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://eventnacre.top/sitemap.xml
+Sitemap: https://eventnacre.site/sitemap.xml
